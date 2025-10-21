@@ -43,4 +43,12 @@ public class Employee {
         }
     }
 
+//    public boolean punchIn() {
+//        double time
+//    }
+//
+//    public boolean punchOut(){
+//        double time
+//    }
+
 }
